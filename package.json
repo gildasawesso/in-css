@@ -4,7 +4,9 @@
   "description": "insert a string of css into the <head>",
   "main": "index.js",
   "dependencies": {
-    "blanket": "^1.2.3"
+    "blanket": "^1.2.3",
+    "cover": "^0.2.9",
+    "istanbul": "^0.4.5"
   },
   "scripts": {
     "test": "browserify test.js | tape-run",
