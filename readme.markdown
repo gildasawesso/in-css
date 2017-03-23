@@ -6,6 +6,7 @@
 [![dev dependencies](https://img.shields.io/david/dev/GhaniaH/insert-css.svg)]()
 [![Coveralls](https://img.shields.io/coveralls/GhaniaH/insert-css.svg)]()
 [![coverage](https://codecov.io/gh/GhaniaH/insert-css/branch/master/graph/badge.svg)](https://codecov.io/gh/GhaniaH/insert-css)
+[![codecov](https://codecov.io/gh/gildasawesso/in-css/branch/master/graph/badge.svg)](https://codecov.io/gh/gildasawesso/in-css)
 
 insert a string of css into the `<head>`
 
