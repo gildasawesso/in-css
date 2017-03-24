@@ -1,5 +1,10 @@
 # insert-css
 
+[![npm](https://img.shields.io/badge/npm-3.10.10-blue.svg)]()
+[![npm version](https://badge.fury.io/js/insert-css.svg)](https://badge.fury.io/js/insert-css)
+[![dependencies](https://david-dm.org/GhaniaH/insert-css.svg)]()
+[![dev dependencies](https://img.shields.io/david/dev/GhaniaH/insert-css.svg)]()
+
 insert a string of css into the `<head>`
 
 [![browser support](https://ci.testling.com/substack/insert-css.png)](https://ci.testling.com/substack/insert-css)
