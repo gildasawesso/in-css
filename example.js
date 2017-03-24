@@ -1,5 +1,3 @@
-require("blanket")({ /* optional options */ }),  require("./test.js");
-
 var on = require('dom-event');
 var insertCss = require('./');
 

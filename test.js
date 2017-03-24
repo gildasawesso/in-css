@@ -54,13 +54,13 @@ test(function (t) {
     t.end();
 });
 
-// test(function testEmpty(t) {
-//     var insertCss = require('./');
+test(function testEmpty(t) {
+    var insertCss = require('./');
 
-//     t.equal(insertCss(), false, 'insertCss() with no arguments returns `false`');
+    t.equal(insertCss(), false, 'insertCss() with no arguments returns `false`');
 
-//     t.end();
-// });
+    t.end();
+});
 
 function position() {
     var getStyle = require('computed-style');
