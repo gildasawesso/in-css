@@ -15,6 +15,7 @@ insert a string of css into the `<head>`
     var insertCss = require('insert-css');
     var styleElement = insertCss('body { background:blue; }');
 ```
+fsefse
 
 # api
 
