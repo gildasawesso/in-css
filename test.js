@@ -54,13 +54,15 @@ test(function (t) {
     t.end();
 });
 
+/*
 test(function testEmpty(t) {
     var insertCss = require('./');
-
-    t.equal(insertCss(), false, 'insertCss() with no arguments returns `false`');
+    var usage = 'insert-css: You need to provide a CSS string. Usage: insertCss(cssString[, options]).';
+    t.equal(insertCss(), new Error(usage), 'insertCss() with no arguments returns `false`');
 
     t.end();
 });
+*/
 
 function position() {
     var getStyle = require('computed-style');
